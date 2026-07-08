@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+frontend/node_modules/
+frontend/dist/
+
+backend/__pycache__/
+backend/uploads/
+
+backend/models/*.pth
+!backend/models/best_resnet50.pth
