@@ -6,12 +6,11 @@ torchvision
 numpy
 pandas
 pillow
-opencv-python
+opencv-python-headless
 matplotlib
 grad-cam
 scikit-learn
 requests
-pytorch-grad-cam
 google-generativeai
 python-dotenv
 reportlab
